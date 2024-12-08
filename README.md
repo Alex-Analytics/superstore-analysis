@@ -2,10 +2,10 @@
 Project Goal - Analyse sales data to identify key trends in profitability, customer behavior, and geographic performance
 
 **Key questions to explore**
-What product categories generate the most revenue or profit?
-Are there regions with high sales but low profitability?
-How do discounts impact profitability?
+What product categories generate the most revenue?
+How does each region compare in regards to revenue? How many customers per region?
 What are the peak sales months?
+How often are customers coming back?
 
 **Workflow steps**
 
